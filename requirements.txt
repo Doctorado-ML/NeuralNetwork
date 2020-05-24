@@ -1,0 +1,5 @@
+numpy
+scikit-learn
+matplotlib
+seaborn
+git+https://github.com/doctorado-ml/stree
